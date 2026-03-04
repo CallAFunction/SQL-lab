@@ -1,4 +1,3 @@
-id,first_name,last_name,specialism,location_code
 1,Morty,Kitto,Dermatology,1
 2,Janean,Barukh,Psychiatry,2
 3,Bogart,Whitebread,Pediatrics,3
@@ -299,3 +298,4 @@ id,first_name,last_name,specialism,location_code
 298,Guglielma,Ollander,Dermatology,298
 299,Baron,Toth,Urology,299
 300,Antoinette,Fennessy,Dermatology,300
+
